@@ -5,3 +5,15 @@ Installing nodejs on Debian Buster:
 Webscraping:
 * The ultimate Guid to Web Scraping with Node.js Installing node js by freeCodeCamp
 * 
+
+Nodejs tutorial:
+* https://www.w3schools.com/nodejs/nodejs_npm.asp
+* Node.js Home: 				done
+* Node.js Intro: 				done
+* Node.js Get Started:			done
+* Node.js HTTP Module:			done
+* Node.js URL Module:			done
+* Node.js Node.js NPM 			
+* Node.js Events
+* Node.js Upload Files
+* Node.js Email
