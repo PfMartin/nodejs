@@ -4,6 +4,7 @@
   "description": "A repository for learning and practicing JavaScript # nodejs",
   "main": "01_server.js",
   "dependencies": {
+    "formidable": "^1.2.2",
     "http": "^0.0.1-security"
   },
   "devDependencies": {},

@@ -13,7 +13,14 @@ Nodejs tutorial:
 * Node.js Get Started:			done
 * Node.js HTTP Module:			done
 * Node.js URL Module:			done
-* Node.js Node.js NPM 			
-* Node.js Events
-* Node.js Upload Files
+* Node.js Node.js NPM 			done			
+* Node.js Events				done
+* Node.js Upload Files			done
 * Node.js Email
+
+Problems solved:
+* Rename problem: File upload 
+	- When trying to rename a file uploaded and received from the server
+	- Use the absolute path and the full name
+	- ~/Documents 					doesn't work
+	- /home/martin/Documents 		works
