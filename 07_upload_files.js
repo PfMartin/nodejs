@@ -3,7 +3,7 @@ const formidable = require('formidable');
 const fs = require('fs');
 
 port = 3000;
-hostname = '192.168.70.226';
+hostname = '192.168.70.226'; // The IP address of your server
 
 const logging = (path) => {
 	console.log(path);
